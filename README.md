@@ -1,6 +1,6 @@
 # the-blueprint-nlp
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghostfr1end/the-blueprint-nlp/blob/main/notebooks/TheBlueprint_project_clean (fin).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ghostfr1end/the-blueprint-nlp/blob/main/notebooks/TheBlueprint_project_clean_1.ipynb)
 
 NLP-анализ Telegram-канала **The Blueprint** за март–май 2025: эмбеддинги + векторный поиск (FAISS), n-граммы, таймлайны событий/трендов.
 
