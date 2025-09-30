@@ -11,7 +11,7 @@
   from google.colab import files
   uploaded = files.upload()  # выберите result.json
 
-Правовой статус данных
+### Правовой статус данных
 
 Источник текстов: Telegram-канал The Blueprint (и/или его авторы/правообладатели).
 
