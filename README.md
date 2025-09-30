@@ -10,7 +10,7 @@ NLP-анализ Telegram-канала **The Blueprint** за март–май 
   - Таймлайн упоминаний (ивенты/бренды/микротренды):  
     ![timeline](assets/timeline.png)
   - Топ биграмм по рубрикам (бар-чарты):  
-    ![bars](assets/bars.png)
+    ![bars](assets/bigrams.png)
 
 ## Стек
 `sentence-transformers (paraphrase-multilingual-mpnet-base-v2)`, `FAISS`, `pandas`, `numpy`, `scikit-learn (TfidfVectorizer)`, `matplotlib`.
